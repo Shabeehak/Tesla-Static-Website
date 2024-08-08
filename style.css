@@ -113,26 +113,26 @@ body, html {
 
 .model-title {
     position: absolute;
-    top: 60px; /* Adjust as needed to move the title down */
+    top: 60px;
     left: 50%;
     transform: translateX(-50%);
-    font-size: 60px; /* Adjust font size as needed */
+    font-size: 60px; 
     color: white;
     font-weight: 600;
 }
 .financing-info {
     position: absolute;
-    top: 130px; /* Adjust as needed to move the text down */
+    top: 130px; 
     left: 50%;
     transform: translateX(-50%);
-    font-size: 25px; /* Adjust font size as needed */
+    font-size: 25px; 
     color: white;
     font-weight: 600;
 }
 
 .financing-info a {
     color: white;
-    text-decoration: none; /* Remove the default underline */
+    text-decoration: none; 
     position: relative;
 }
 
@@ -200,7 +200,7 @@ body, html {
 .Xprice-info
 {
     position: absolute;
-    top: 140px; /* Adjust as needed to move the text down */
+    top: 140px;
     left: 50%;
     transform: translateX(-50%);
     font-size: 25px;
@@ -212,16 +212,16 @@ body, html {
 .Xfinancing-info
 {
     position: absolute;
-    top: 170px; /* Adjust as needed to move the text down */
+    top: 170px;
     left: 50%;
     transform: translateX(-50%);
-    font-size: 20px; /* Adjust font size as needed */
+    font-size: 20px; 
     color: white;
     font-weight: 600;
 }
 .Xfinancing-info a {
     color: white;
-    text-decoration: none; /* Remove the default underline */
+    text-decoration: none; 
     position: relative;
 }
 
@@ -230,18 +230,18 @@ body, html {
     display: block;
     position: absolute;
     left: 0;
-    bottom: -5px; /* Adjust this value to create space */
+    bottom: -5px;
     width: 100%;
-    height: 2px; /* Thickness of the underline */
-    background-color: white; /* Color of the underline */
+    height: 2px; 
+    background-color: white; 
 }
 .cybertruck-logo {
-    width: 300px; /* Adjust the size as needed */
+    width: 300px; 
     height: auto;
     position: absolute;
-    top: 30%; /* Adjust the position as needed */
-    left: 50%; /* Center horizontally */
-    transform: translate(-50%, -50%); /* Center vertically */
+    top: 30%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
 }
 .Last-content
 {
